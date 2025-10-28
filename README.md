@@ -71,7 +71,7 @@ UAV-Edge-Surveillance/
 ├── flydrone.py               # Main drone control and AI integration script
 ├── models/
 │   ├── blip_model/
-|       ├── blip_scene_finetuned_2   # Fine-tuned BLIP model
+|       ├── blip_scene_finetuned_2/  # Fine-tuned BLIP model
 │   ├── llm_model_folder/            # Fine-tuned LLM
 │   ├── risk_model.pkl        # Trained ML risk prediction model
 │   └── tfidf_vectorizer.pkl  # TF-IDF vectorizer for text features
